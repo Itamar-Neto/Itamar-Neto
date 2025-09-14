@@ -8,7 +8,7 @@
 
 <p align="left"> 
   A paixão por tecnologia sempre me acompanhou e a arte foi o que me ensinou a dar vida a ideias. Acredito que criar sistemas é uma forma de arte, pois cada projeto é uma tela em branco onde a imaginação se materializa. É a partir dessa fusão entre lógica e criatividade que dou vida ao que antes era apenas uma necessidade ou um sonho, transformando-o em soluções reais e funcionais.<br>
-  Atualmente, dedico o tempo após o trabalho para aprofundar em meus estudos e aprimorar minhas habilidades.
+  Atualmente, dedico meu tempo após o trabalho para aprofundar em meus estudos e aprimorar minhas habilidades.
 </p>
 
 <p align="left">
