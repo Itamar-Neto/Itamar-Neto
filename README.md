@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  🌱 Estou aprendendo: Algoritmos, Lógica de programação, HTML, CSS, JS e C.
+  🌱 Estou aprendendo: Algoritmos, Lógica de programação, HTML, CSS, JavaScript e Linguagem C.
 </p>
     
 
