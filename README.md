@@ -20,20 +20,23 @@
 </p>
 
 ---
-
+<!--**
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens**
 
+<img src="" alt="" width="160" hight="50">
+<img src="" alt="" width="160" hight="50">
+<img src="" alt="" width="160" hight="50">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-<!--**Utilidades**
+Utilidades**
 
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
--->
+
 
 **DevOps**
 
@@ -42,9 +45,9 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="160" hight="50">
 
+-->
 
 <br/>
 
