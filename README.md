@@ -20,7 +20,7 @@
 </p>
 
 ---
-    
+
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -47,5 +47,6 @@
 
 
 <br/>
+
 
 
