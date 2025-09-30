@@ -20,34 +20,33 @@
 </p>
 
 ---
-<!--**
+
 ## Minhas Skills
 
 **Linguagens**
 
-<img src="" alt="" width="160" hight="50">
-<img src="" alt="" width="160" hight="50">
-<img src="" alt="" width="160" hight="50">
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white " alt="CSS " >
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black " alt="Javascript ">
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black " alt="Linguagem C" >
 
-Utilidades**
+<!--
+**Utilidades**
 
-![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+<img src=" " alt=" " >
+<img src=" " alt=" " >
+<img src=" " alt=" " >
 
+-->
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white " alt="Git" > <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white " alt="GitHub" >
 
-**Ferramentas de desenvolvimento**
 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="160" hight="50">
+**Ferramentas**
 
--->
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" > <img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white " alt="Miro" >
+
 
 <br/>
 
