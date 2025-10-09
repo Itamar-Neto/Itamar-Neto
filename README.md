@@ -21,14 +21,20 @@
 
 ---
 
+## Redes Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itamar._.henriques) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Itamar-Henriques) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&)](mailto:itamar.henriques.rn@gmail.com) 
+
+---
+
 ## Minhas Skills
 
 **Linguagens**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white " alt="CSS " >
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML 5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white " alt="CSS 3" >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black " alt="Javascript ">
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black " alt="Linguagem C" >
-
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white " alt="C">
 <!--
 **Utilidades**
 
@@ -46,16 +52,27 @@
 **Ferramentas**
 
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" > <img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white " alt="Miro" >
-
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white " alt="Notion" >
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white " alt="Adobe Illustrator " >
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white " alt="Adobe Photoshop " >
+<img src="https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white " alt="Adobe Fonts " >
 
 <br/>
 
 ---
 
-## Meus Status
+## GitHub Status
 
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=Itamar-Neto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Itamar-Neto&theme=dark&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=Itamar-Neto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Neto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Itamar-Neto&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Itamar-Neto&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Neto&stats_format=bytes)
+---
+
+## GitHub Troféus
+![](https://github-profile-trophy.vercel.app/?username=Itamar-Neto&theme=aura&no-frame=true&no-bg=false&margin-w=4)
+
+
+
 
