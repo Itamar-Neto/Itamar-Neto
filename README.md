@@ -24,37 +24,52 @@
 ## Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itamar._.henriques) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Itamar-Henriques) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&)](mailto:itamar.henriques.rn@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&)](mailto:itamar.henriques.r@gmail.com) 
 
 ---
 
-## Minhas Skills
+## 🚀 Minhas Skills
 
-**Linguagens**
+### 💻 Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML 5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white " alt="CSS 3" >
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black " alt="Javascript ">
-<!--
-**Utilidades**
+---
 
-<img src=" " alt=" " >
-<img src=" " alt=" " >
-<img src=" " alt=" " >
+### ⚛️ Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
--->
+---
 
-**DevOps**
+### ⚙️ DevOps & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white " alt="Git" > <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white " alt="GitHub" >
+---
 
+### 🛠️ Ferramentas & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D?style=for-the-badge&logo=adobefonts&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-7E4DD2?style=for-the-badge)
 
-**Ferramentas**
+---
 
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" > <img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white " alt="Miro" >
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white " alt="Notion" >
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white " alt="Adobe Illustrator " >
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white " alt="Adobe Photoshop " >
-<img src="https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white " alt="Adobe Fonts " >
+### 💼 Ambiente de Desenvolvimento
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+---
+
+### 📊 Outros
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 <br/>
 
@@ -66,6 +81,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Itamar-Neto&theme=dark&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=Itamar-Neto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Neto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&)
+
 
 ---
 
