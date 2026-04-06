@@ -75,19 +75,24 @@
 
 ---
 
-## GitHub Status
+## 📶 GitHub Status
 
-![](https://github-readme-stats.vercel.app/api?username=Itamar-Neto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Itamar-Neto&theme=dark&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=Itamar-Neto&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Neto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&)
+<div align="center">
 
+<!-- Streak Stats — DemoLab (mais estável que nirzak) -->
+<img src="https://streak-stats.demolab.com/?user=Itamar-Neto&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+
+</div>
 
 ---
 
-## GitHub Troféus
-![](https://github-profile-trophy.vercel.app/?username=Itamar-Neto&theme=aura&no-frame=true&no-bg=false&margin-w=4)
+## 📈 Gráfico de Contribuições
 
+<div align="center">
 
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itamar-Neto&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
+---
 
