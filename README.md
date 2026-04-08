@@ -98,3 +98,9 @@
 
 ## 📊 Vista isométrica das contribuições no último ano
 ![3D Contrib](./profile-3d-contrib/profile-night-view.svg)
+
+<div align="center">
+
+  ![Visitors](https://hits.sh/github.com/Itamar-Neto.svg?label=Visitors&color=4A90D9&labelColor=1a1a2e)
+  
+</div>
